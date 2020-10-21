@@ -8,7 +8,7 @@ So... I'm going to introduce myself; I'm Tocka, I'm **¢œ** years old, my real 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Useful Indo About Me:
+# Useful Info About Me:
 
 [Here](https://steamcommunity.com/id/TockaWaifu/), this is my Steam
 

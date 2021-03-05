@@ -4,7 +4,7 @@ I guess it doesnt matter now, does it? Hehe
 
 You look like a curious one, that's why you came in here, right? That's fun, I like curious people, they're ~delicious!~ smart and funny!
 
-So... I'm going to introduce myself; I'm Tocka, I'm **¢œ** years old, my real name is **ÿ¢õÐµþœ**, and I'm from Brazil!
+So... I'm going to introduce myself; I'm Tocka, I'm **¢œ** years old, my real name is **ÿ¢õÐµþœ**, and I'm from Brazil! Sim, eu falo Português, ou Macaquês como os gringos dizem.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

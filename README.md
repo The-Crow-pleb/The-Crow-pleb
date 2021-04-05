@@ -20,8 +20,6 @@ My Discord is: Tocka Waifu#4872, but since it's private to add me, you should jo
 
 - [Apple Pie](https://github.com/The-Crow-pleb/Apple-Pie-Bot)
 
-[![Discord Bots](https://top.gg/api/widget/762077336812126228.svg)](https://top.gg/bot/762077336812126228)
-
 >_Good apple pies are a considerable part of our domestic happiness._
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

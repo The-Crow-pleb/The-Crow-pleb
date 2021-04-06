@@ -14,7 +14,7 @@ So... I'm going to introduce myself; I'm Tocka, I'm **¢œ** years old, my real 
 
 And this one is [MyAnimeList](https://myanimelist.net/profile/Tocka_Waifu) (It's kinda outdated since I don't have much time to update it)
 
-My Discord is: Tocka Waifu#4872, but since it's private to add me, you should join the [Discord server](https://discord.gg/sGgzNQ6) of my main project: the [Apple Pie Bot](https://discord.com/oauth2/authorize?client_id=762077336812126228&scope=bot&permissions=2112351350)!
+My Discord is: Tocka Waifu#4872, but since it's private to add me, you should join the [Discord server](https://discord.gg/G4bv4Buf4E) of my main project: the [Apple Pie Bot](https://discord.com/oauth2/authorize?client_id=762077336812126228&scope=bot&permissions=2112351350)!
 
 ### My current Projects Are:
 

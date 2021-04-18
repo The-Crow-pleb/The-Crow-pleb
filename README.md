@@ -19,6 +19,8 @@ My Discord is: Tocka Waifu#4872, but since it's private to add me, you should jo
 ### My current Projects Are:
 
 - [Apple Pie](https://github.com/The-Crow-pleb/Apple-Pie-Bot)
+- [Banano Calculator](https://github.com/The-Crow-pleb/banano-calculator/)
+- Other 2 that are privated because of company rules~~~
 
 >_Good apple pies are a considerable part of our domestic happiness._
 

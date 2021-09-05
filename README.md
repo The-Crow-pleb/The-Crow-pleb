@@ -1,32 +1,55 @@
-# _Hey you! How did you get in here?_
+<div align="center">
+</div>
 
-I guess it doesnt matter now, does it? Hehe
+<h1> Hello < World/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-You look like a curious one, that's why you came in here, right? That's fun, I like curious people, they're ~delicious!~ smart and funny!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=The-Crow-pleb.The-Crow-pleb)
 
-So... I'm going to introduce myself; I'm Tocka, I'm **¢œ** years old, my real name is **ÿ¢õÐµþœ**, and I'm from Brazil! Sim, eu falo Português, ou Macaquês como os gringos dizem.
+</p>
+<div size='20px'> Hi! My name is тоска. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-# Useful Info About Me:
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-[Here](https://steamcommunity.com/id/TockaWaifu/), this is my Steam
 
-And this one is [MyAnimeList](https://myanimelist.net/profile/Tocka_Waifu) (It's kinda outdated since I don't have much time to update it)
+- 🔭 I’m currently working on - Open Source: Apple-Pie-Bot, PassManager.
+Closed Source: Other 3 Reps.
 
-My Discord is: Tocka Waifu#4872, but since it's private to add me, you should join the [Discord server](https://discord.gg/G4bv4Buf4E) of my main project: the [Apple Pie Bot](https://discord.com/oauth2/authorize?client_id=762077336812126228&scope=bot&permissions=2112351350)!
+- 🌱 I’m currently learning - Mainly Solidity and Rust 
 
-### My current Projects Are:
+- 💬 Talk to me about Javascript and MongoDB mainly. 
 
-- [Apple Pie](https://github.com/The-Crow-pleb/Apple-Pie-Bot)
-- [Banano Calculator](https://github.com/The-Crow-pleb/banano-calculator/)
-- Other 2 that are privated because of company rules~~~
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/The-Crow-pleb?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/The-Crow-pleb?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/The-Crow-pleb?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/The-Crow-pleb?tab=repositories&q=&type=&language=canvasjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/canvasjs.svg'> </a>
+<a href= https://github.com/The-Crow-pleb?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/The-Crow-pleb?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
->_Good apple pies are a considerable part of our domestic happiness._
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.github.com/The-Crow-pleb'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-That's all I can tell you _now_, since I'm not an interesting person. Sorry!
-See you later~👋🏻
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Tocka&compact=True"/>
+</a>
+<br>
+
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Metrics](https://metrics.lecoq.io/The-Crow-pleb?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>

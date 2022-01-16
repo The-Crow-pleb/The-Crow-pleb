@@ -15,8 +15,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on - Open Source: Apple-Pie-Bot, PassManager.
-Closed Source: Other 3 Reps.
+- 🔭 I’m currently working on:
+  - Open Source: Apple-Pie-Bot, Apple Token (Nano Fork).
+  - Closed Source: Other 4 Reps.
 
 - 🌱 I’m currently learning - Mainly Solidity and Rust 
 
